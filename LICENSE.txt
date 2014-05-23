@@ -1,9 +1,6 @@
 Place your license text here.  This file will be incorporated with your app at package time.
-H
 
-H
-
-H
+LICENSE DE NOU MODIFICAT PER TEST2 MENTRE ES FEIA UN BRANCH A RAW
 
 OOxxxyyy
 L
