@@ -1,6 +1,7 @@
 Place your license text here.  This file will be incorporated with your app at package time.
 
 LICENSE DE NOU MODIFICAT PER TEST2 MENTRE ES FEIA UN BRANCH A RAW
+I TORNAT A MODIFICAR DESPRÉS QUE RAW PUGÉS EL BRANCH NOU
 
 OOxxxyyy
 L
